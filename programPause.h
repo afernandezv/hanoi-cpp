@@ -1,0 +1,6 @@
+#ifndef HANOI_CPP_PROGRAMPAUSE_H
+#define HANOI_CPP_PROGRAMPAUSE_H
+
+#endif //HANOI_CPP_PROGRAMPAUSE_H
+
+void programPause();
